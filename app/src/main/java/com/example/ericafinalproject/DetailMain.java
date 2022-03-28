@@ -47,7 +47,6 @@ public class DetailMain extends AppCompatActivity {
         Intent intent = getIntent();
         String foodid = intent.getStringExtra("food_id");
         food_id = Long.parseLong(foodid);
-        //foodId.setText("Food ID: "+food_id);
 
         allDao = MyDatabase.getInstance(this).allDao();
 

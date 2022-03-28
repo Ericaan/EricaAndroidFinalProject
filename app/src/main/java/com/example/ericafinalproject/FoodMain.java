@@ -30,7 +30,6 @@ public class FoodMain extends AppCompatActivity {
         Intent intent = getIntent();
         String cat_id = intent.getStringExtra("category_id");
         Long category_id = Long.parseLong(cat_id);
-        //categoryId.setText("Category ID: "+category_id);
 
         //showing all foods by category_id
         foods = new ArrayList<Food>();
