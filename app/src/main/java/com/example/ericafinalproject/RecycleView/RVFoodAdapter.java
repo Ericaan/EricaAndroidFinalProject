@@ -12,7 +12,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.example.ericafinalproject.Classes.Food;
 import com.example.ericafinalproject.DataConverter;
 import com.example.ericafinalproject.DetailMain;
-import com.example.ericafinalproject.FoodMain;
 import com.example.ericafinalproject.R;
 
 import java.util.List;

@@ -12,7 +12,6 @@ import android.widget.Button;
 
 import com.example.ericafinalproject.Classes.Category;
 import com.example.ericafinalproject.Classes.CategoryWithFood;
-import com.example.ericafinalproject.Classes.Food;
 import com.example.ericafinalproject.DB.AllDao;
 import com.example.ericafinalproject.DB.MyDatabase;
 import com.example.ericafinalproject.RecycleView.RVCategoryAdapter;

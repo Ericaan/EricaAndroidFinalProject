@@ -13,11 +13,9 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.ericafinalproject.Classes.Category;
-import com.example.ericafinalproject.Classes.Food;
 import com.example.ericafinalproject.DB.AllDao;
 import com.example.ericafinalproject.DB.MyDatabase;
 import com.example.ericafinalproject.DataConverter;
-import com.example.ericafinalproject.DetailMain;
 import com.example.ericafinalproject.FoodMain;
 import com.example.ericafinalproject.MainActivity;
 import com.example.ericafinalproject.R;
