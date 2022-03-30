@@ -17,6 +17,10 @@
         <entry key="..\:/Users/Erica/OneDrive/Documents/GitHub/EricaAndroidFinalProject/app/src/main/res/layout/activity_add_food.xml" value="0.264" />
         <entry key="..\:/Users/Erica/OneDrive/Documents/GitHub/EricaAndroidFinalProject/app/src/main/res/layout/activity_detail_main.xml" value="0.1" />
         <entry key="..\:/Users/Erica/OneDrive/Documents/GitHub/EricaAndroidFinalProject/app/src/main/res/layout/activity_food_main.xml" value="0.1111111111111111" />
+        <entry key="..\:/Users/Erica/OneDrive/Documents/GitHub/EricaAndroidFinalProject/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Erica/OneDrive/Documents/GitHub/EricaAndroidFinalProject/app/src/main/res/layout/activity_update_category.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/Erica/OneDrive/Documents/GitHub/EricaAndroidFinalProject/app/src/main/res/layout/rv_category.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/Erica/OneDrive/Documents/GitHub/EricaAndroidFinalProject/app/src/main/res/layout/rv_food.xml" value="0.1" />
       </map>
     </option>
   </component>
