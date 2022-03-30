@@ -1,3 +1,6 @@
+/*
+    Convert Image to Byte [] and the opposite
+ */
 package com.example.ericafinalproject;
 
 import android.graphics.Bitmap;

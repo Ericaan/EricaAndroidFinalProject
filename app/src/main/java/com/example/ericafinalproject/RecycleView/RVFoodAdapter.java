@@ -1,3 +1,8 @@
+/*
+    Showing food list in Food Main Activity
+    Click Listener for:
+    - food name = to direct user to the Detail Food
+ */
 package com.example.ericafinalproject.RecycleView;
 
 import android.annotation.SuppressLint;

@@ -1,3 +1,8 @@
+/*
+    Main Activity will show the list of categories
+    and display it to Food Main Activity
+    User can click to a category to go to Food Main Activity
+ */
 package com.example.ericafinalproject;
 
 import androidx.appcompat.app.AppCompatActivity;

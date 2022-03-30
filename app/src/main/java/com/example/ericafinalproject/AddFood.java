@@ -1,3 +1,8 @@
+/*
+    Add food will adding new food and display it to Food Main Activity
+    User will choose a photo from gallery or take a picture (not working for me)
+    User cannot leave any fields empty
+ */
 package com.example.ericafinalproject;
 
 import androidx.activity.result.ActivityResult;

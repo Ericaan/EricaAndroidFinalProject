@@ -1,3 +1,7 @@
+/*
+    Creating database with tables(Category and Food classes)
+ */
+
 package com.example.ericafinalproject.DB;
 
 import android.content.Context;

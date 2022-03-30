@@ -1,5 +1,8 @@
-package com.example.ericafinalproject.DB;
+/*
+    All SQL statements that will be used in the app
+ */
 
+package com.example.ericafinalproject.DB;
 
 import androidx.room.Dao;
 import androidx.room.Insert;

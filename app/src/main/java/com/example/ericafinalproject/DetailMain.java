@@ -1,3 +1,10 @@
+/*
+    Detail main will show the detail of food
+    and display it to Detail Main Activity
+    User can update and delete the food/drink from the list
+    User will choose a photo from gallery or take a picture (not working for me)
+    User cannot leave any fields empty
+ */
 package com.example.ericafinalproject;
 
 import androidx.activity.result.ActivityResult;

@@ -1,3 +1,9 @@
+/*
+    Update category will show the information about the category
+    User can update and delete the category from the list
+    User will choose a photo from gallery or take a picture (not working for me)
+    User cannot leave any fields empty
+ */
 package com.example.ericafinalproject;
 
 import androidx.activity.result.ActivityResult;

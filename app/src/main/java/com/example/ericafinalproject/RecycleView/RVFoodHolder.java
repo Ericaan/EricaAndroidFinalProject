@@ -1,3 +1,6 @@
+/*
+    Get references for the recycle view
+ */
 package com.example.ericafinalproject.RecycleView;
 
 import android.view.View;

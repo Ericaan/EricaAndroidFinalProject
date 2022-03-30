@@ -1,3 +1,8 @@
+/*
+    Food main will show the list of food
+    and display it to Food Main Activity
+    User can click to an item to go to Detail Main Activity
+ */
 package com.example.ericafinalproject;
 
 import androidx.appcompat.app.AppCompatActivity;

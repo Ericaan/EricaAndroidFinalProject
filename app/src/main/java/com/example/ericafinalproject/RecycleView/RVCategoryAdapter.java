@@ -1,3 +1,11 @@
+/*
+    Showing category list, edit button, and delete button in Main Activity
+    Click Listener for:
+    - category name = to direct user to the List Item
+    - edit = Edit Category Activity
+    - delete = delete the category
+ */
+
 package com.example.ericafinalproject.RecycleView;
 
 import android.annotation.SuppressLint;
