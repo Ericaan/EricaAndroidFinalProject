@@ -14,7 +14,7 @@
         <ImageView
             android:id="@+id/cv_food_img"
             android:layout_width="200dp"
-            android:layout_height="200dp"
+            android:layout_height="150dp"
             android:src="@drawable/icedlemontea"
             android:layout_margin="10dp"/>
         <LinearLayout

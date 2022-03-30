@@ -38,22 +38,22 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:text="Food Name"/>
+        android:text="Food/Drink Name"/>
     <EditText
         android:id="@+id/et_addFood_name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter the food name"/>
+        android:hint="Enter the food/drink name"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
-        android:text="Food Price"/>
+        android:text="Food/Drink Price"/>
     <EditText
         android:id="@+id/et_addFood_price"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter the food price"/>
+        android:hint="Enter the food/drink price"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -69,12 +69,12 @@
         android:layout_height="wrap_content"
         android:textSize="18sp"
         android:layout_marginTop="10dp"
-        android:text="Food Description"/>
+        android:text="Food/Drink Description"/>
     <EditText
         android:id="@+id/et_addFood_description"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter the food description"/>
+        android:hint="Enter the food/drink description"/>
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -86,7 +86,7 @@
             android:layout_height="wrap_content"
             android:layout_marginRight="20dp"
             android:backgroundTint="@color/purple_200"
-            android:text="SUBMIT FOOD"/>
+            android:text="SUBMIT FOOD/DRINK"/>
         <Button
             android:id="@+id/btn_addFood_cancel"
             android:layout_width="wrap_content"
