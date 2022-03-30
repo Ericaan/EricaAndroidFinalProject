@@ -6,7 +6,6 @@ import androidx.room.Insert;
 import androidx.room.Query;
 
 import com.example.ericafinalproject.Classes.Category;
-import com.example.ericafinalproject.Classes.CategoryAndFood;
 import com.example.ericafinalproject.Classes.CategoryWithFood;
 import com.example.ericafinalproject.Classes.Food;
 
@@ -75,8 +74,6 @@ public interface AllDao {
     Category getCategoryById(int category_id);
     @Query("SELECT * FROM food WHERE food_id = :food_id")
     Food getFoodById(long food_id);
-    @Query("SELECT * FROM food JOIN category ON category.category_id = food.category_id ")
-    List<CategoryAndFood> getCategoryAndFood();
     @Query("SELECT * FROM food")
     List<CategoryWithFood> getCategoryWithFood();
 
